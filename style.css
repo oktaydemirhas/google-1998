@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+.main{
+    background-color: rgb(238, 238, 238);
+}
+
+.main input{
+    line-height: 1.5em;
+}
+
+.google-search{
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.lucky{
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.search-text{
+    text-align: center;
+}
+
+.footer{
+    display: flex;
+    margin-top: 2px;
+}
+
+ul{
+    list-style: none;
+}
+
+.box1{
+    background-color: rgb(126, 229, 218);
+    width: 40%;
+}
+
+.box1 ul{
+    margin: 13px;
+    font-size: large;
+}
+
+.box2{
+    background-color: rgb(112, 204, 194);
+    width: 20%;
+    margin-left: 2px;
+    margin-right: 2px;
+    
+}
+
+.box2 ul{
+    margin: 13px;
+    font-size: smaller;
+}
+
+.box3{
+    background-color: rgb(92, 189, 177);
+    width: 40%;
+    padding-top: 5px;
+}
+
+.box3 input{
+    line-height: 1.5em;
+}
+
+.subscribe{
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+
+.marka{
+    margin-top: 15px;
+    font-size: smaller;
+}
